@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Projects<br>🌱 I’m currently pursuing my bachelors<br> 
+🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Any Flutter Projects<br>🌱 I’m currently pursuing my bachelors in computer science<br> 
 
 
 ## 🌐 Socials:
